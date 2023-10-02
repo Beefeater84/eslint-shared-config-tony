@@ -45,6 +45,10 @@ If you want to overwrite something
 
 ```
 
+The package is made by React / Next.js Front end developers Miasoedov Tony for his pet projects, so as not to spend time on setup, but just to add.
+
+It also allows maintaining a single up-to-date eslint in all projects. You can update the base config - and thus update it in all projects
+
 Package author: https://www.linkedin.com/in/tony-myasoedov-b145801b3/
 
 ## Links
