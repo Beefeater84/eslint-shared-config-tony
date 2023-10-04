@@ -1,6 +1,6 @@
 {
   "name": "eslint-shared-config-tony",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared configuration for EsLint for React and Next.js projects",
   "main": "./dist/index-eslint-config.js",
   "scripts": {
@@ -35,7 +35,8 @@
     "eslint-plugin-react": "*",
     "eslint-plugin-react-hooks": "*",
     "eslint-plugin-sonarjs": "*",
-    "pretier": "*"
+    "pretier": "*",
+    "@typescript-eslint/eslint-plugin": "*"
   },
   "files": [
     "dist"

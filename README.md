@@ -25,7 +25,7 @@ If it's not there, create it in the root of the project
 If it's named .eslintrc.json, rename it to .eslintrc.js
 
 ```js
-    const sharedConfig = require("eslint-shared-config-tony");
+const sharedConfig = require("eslint-shared-config-tony");
 
 module.exports = {
     ...sharedConfig,
