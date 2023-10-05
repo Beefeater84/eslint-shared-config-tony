@@ -44,7 +44,10 @@ module.exports = {
         "react/jsx-uses-react": "off",
         "react/react-in-jsx-scope": "off",
         "no-plusplus": ["error", {"allowForLoopAfterthoughts": true}],
-        "no-undef": "off"
+        "no-undef": "off",
+        "allowExpressions": true,
+        "react/prop-types": "off",
+        "react/require-default-props": "off"
     },
 
 }
