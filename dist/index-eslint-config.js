@@ -45,7 +45,7 @@ module.exports = {
         "react/react-in-jsx-scope": "off",
         "no-plusplus": ["error", {"allowForLoopAfterthoughts": true}],
         "no-undef": "off",
-        "allowExpressions": 1,
+        "@typescript-eslint/explicit-function-return-type": "off",
         "react/prop-types": "off",
         "react/require-default-props": "off"
     },
