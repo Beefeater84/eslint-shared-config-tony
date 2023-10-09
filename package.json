@@ -4,7 +4,8 @@
   "description": "Shared configuration for EsLint for React and Next.js projects",
   "main": "./dist/index-eslint-config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm version patch && npm publish"
   },
   "author": "Miasoedov Tony",
   "license": "ISC",
