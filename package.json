@@ -1,6 +1,6 @@
 {
   "name": "eslint-shared-config-tony",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Shared configuration for EsLint for React and Next.js projects",
   "main": "./dist/index-eslint-config.js",
   "scripts": {
